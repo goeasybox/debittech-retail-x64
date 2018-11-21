@@ -1,1 +1,1 @@
-# -debittech-retail-x64
+# debittech-retail-x64
